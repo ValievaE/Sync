@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sync</string>
+    <string name="btn_text_sync">Синхронизация</string>
+    <string name="btn_text_start">Запуск</string>
+    <string name="txt_morning">Утро</string>
+    <string name="txt_afternoon">День</string>
+    <string name="txt_evening">Вечер</string>
+</resources>
